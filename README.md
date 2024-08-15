@@ -31,7 +31,8 @@ This PowerShell script retrieves SharePoint Online group details and Azure AD gr
    https://your-tenant.sharepoint.com/sites/site1
    https://your-tenant.sharepoint.com/sites/site2
    ```
-
+2. Sample file uploaded
+   
 ### Run the Script
 
 1. Open PowerShell as an administrator.
