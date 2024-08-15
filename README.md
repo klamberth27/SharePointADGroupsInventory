@@ -48,7 +48,7 @@ The script will connect to your SharePoint tenant, retrieve group details, check
 ### Check the Output
 
 - The results will be saved in two CSV files:
-  - `SharePoint_AD_Groups_report.csv`: Contains details about SharePoint Online groups.
+  - `SharePoint_AD_Groups_report.csv`: Contains details about all SharePoint AD groups.
   - `AD_Groups_Details.csv`: Contains detailed information about the associated Azure AD groups.
 
 ## Troubleshooting
